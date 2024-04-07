@@ -19,5 +19,5 @@ const dbConnection = () => {
  
 // Exporta la función dbConnection para que esté disponible para otros 
 module.exports = { 
-    dbConnectio
+    dbConnection
  }
